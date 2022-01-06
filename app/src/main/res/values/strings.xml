@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CutUrlFromString</string>
+    <string name="text_to_check_this">Text to check this Text to check</string>
+    <string name="search_here">Search here</string>
+    <string name="type_a_message">Type a message...</string>
+</resources>
